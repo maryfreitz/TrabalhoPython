@@ -1,7 +1,7 @@
 Hora = int(input("horário: "))
 if Hora <= 11: 
-    print("manhã")
+    print("está de manhã")
 elif Hora >= 18:
-    print("noite")
+    print("está de noite")
 else:
-    print("tarde")
+    print("está de tarde")
