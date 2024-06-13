@@ -1,3 +1,2 @@
-Y = ("Desenvolvimento de sistemas")
-len(Y)
+Y = input("Diga uma frase: ")
 print(Y[::-len(Y)])
